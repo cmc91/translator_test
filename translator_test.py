@@ -58,7 +58,7 @@ target_lang = st.sidebar.selectbox(
 
 )
 
-st.sidebar.write("made by ✍️ASJ")
+st.sidebar.write("made by ✍️ASJ™️")
 
 col1, col2 = st.columns(2)
 
